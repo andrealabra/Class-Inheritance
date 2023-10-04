@@ -11,9 +11,9 @@ Car::Car(const string& brand, const string& model, int year) //contructor
 : brand(brand), model(model), year(year) {}
 
 void Car::displayInfo() {
-    cout << "Brand: " << brand << std::endl;
-    cout << "Model: " << model << std::endl;
-    cout << "Year: " << year << std::endl;
+    cout << "Brand: " << brand << endl;
+    cout << "Model: " << model << endl;
+    cout << "Year: " << year << endl;
 }
 
 
