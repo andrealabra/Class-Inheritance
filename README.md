@@ -1,5 +1,7 @@
 # Class-Inheritance
 
+The single colon : could also signify class inheritance, if the class declaration is followed by : and a class name, it means the class derives from the class behind the single colon.
+
 Example for Class and Inheritance 
 
 
